@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.neo</groupId>
-	<artifactId>neo-eureka</artifactId>
+	<artifactId>neo-eureka-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>neo-eureka</name>
 	<description>neo-eureka-server</description>

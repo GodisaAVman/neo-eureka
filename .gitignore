@@ -35,3 +35,4 @@ neo_log/neo-eureka/spring.log
 .mvn/wrapper/maven-wrapper.properties
 .mvn/wrapper/maven-wrapper.jar
 .mvn/wrapper/MavenWrapperDownloader.java
+neo_log/neo-eureka-server/spring.log
